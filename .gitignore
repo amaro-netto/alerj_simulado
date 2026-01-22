@@ -1,9 +1,6 @@
 # pastas
-pdf
-edital
 temp
 logs
-BACKUP
 
 # Ignorar arquivos temporários do Jupyter
 .ipynb_checkpoints/
@@ -17,3 +14,9 @@ env/
 # Ignorar variáveis de ambiente
 .env.bak/
 .env
+
+# Ignorar arquivos
+*.pdf
+*.txt
+*.json
+*.db
