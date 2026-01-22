@@ -3,5 +3,17 @@ pdf
 edital
 temp
 logs
+BACKUP
 
-#arquivos
+# Ignorar arquivos temporários do Jupyter
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+__pycache__/
+
+# Ignorar ambiente virtual
+.venv/
+env/
+
+# Ignorar variáveis de ambiente
+.env.bak/
+.env
