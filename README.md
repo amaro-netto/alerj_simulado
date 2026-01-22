@@ -137,4 +137,4 @@ O projeto foi estruturado em um **Jupyter Notebook** (`pipeline_simulado.ipynb`)
 
 ## 📝 Autor
 
-<a href="https://github.com/amaro-netto" title="Amaro Netto"><img width="200" src="https://i.ibb.co/0RdNyPXm/Data-Science.png"/></a>
+<a href="https://github.com/amaro-netto" title="Amaro Netto"><img width="200" src="https://i.ibb.co/qMV0jBqM/Data-Science.webp"/></a>
